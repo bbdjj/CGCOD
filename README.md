@@ -23,8 +23,8 @@ The use of these images is entirely at your own risk and discretion. Additionall
 1. Unzip all the files and set the following path information in a single yaml file `dataset.yaml`:
    - `COD10K`: Directory of **COD10K**, which contains `train` and `test` directories of **COD10K**.
    - `CAMO`: Directory of **CAMO**, which contains `train` and `test` directories of **CAMO**.
-   - `NC4K`: Directory of **NC4K**, which contains `img` and `gt` of CPD1K.
-   - `CHAMELEON`: Directory of **NC4K**, which contains `img` and `gt` of CPD1K.
+   - `NC4K`: Directory of **NC4K**, which contains `img` and `gt` of NC4K.
+   - `CHAMELEON`: Directory of **CHAMELEON**, which contains `img` and `gt` of CHAMELEON.
 2. Download for the information json for CamoClass dataset (`class_info.json` and `sample_info.json`) from 
 3. Specify the data roots for training and testing by class_info.json.
 
