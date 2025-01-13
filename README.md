@@ -25,7 +25,7 @@ The use of these images is entirely at your own risk and discretion. Additionall
    - `CAMO`: Directory of **CAMO**, which contains `train` and `test` directories of **CAMO**.
    - `NC4K`: Directory of **NC4K**, which contains `img` and `gt` of NC4K.
    - `CHAMELEON`: Directory of **CHAMELEON**, which contains `img` and `gt` of CHAMELEON.
-2. Download for the information json for CamoClass dataset (`class_info.json` and `sample_info.json`) from 
-3. Specify the data roots for training and testing by class_info.json.
+2. Download for the information json for CamoClass dataset (`dataset_info.json`) from 
+3. Specify the data roots for training and testing by dataset_info.json.
 
-## LICENSE of 
+%## LICENSE of 
