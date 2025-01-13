@@ -16,7 +16,7 @@ The use of these images is entirely at your own risk and discretion. Additionall
 - **COD10K**: <https://github.com/GewelsJI/SINet-V2>
 - **CAMO**: <https://sites.google.com/view/ltnghia/research/camo>
 - **NC4K**: <https://github.com/xfflyer/Camouflaged-people-detection>
-- **CHAMELEON**: <https://github.com/xfflyer/Camouflaged-people-detection>
+- **CHAMELEON**: <https://www.polsl.pl/rau6/chameleon-database-animal-camouflage-analysis>
 
 ### Data Usage
 
