@@ -2,6 +2,9 @@
 
 - Paper: [CGCOD: Class-Guided Camouflaged Object Detection](https://arxiv.org/pdf/2412.18977)
 
+> [!note]
+>
+> Details of the proposed Camoclass dataset can be found in the document for [our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
 
 ## Dataset Details
 
