@@ -1,6 +1,6 @@
 # CGCOD
 
-- Paper: [Open-Vocabulary Camouflaged Object Segmentation](https://arxiv.org/pdf/2412.18977)
+- Paper: [CGCOD: Class-Guided Camouflaged Object Detection](https://arxiv.org/pdf/2412.18977)
 
 
 ## Dataset Details
