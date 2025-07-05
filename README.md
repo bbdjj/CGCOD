@@ -3,10 +3,10 @@
 - Paper: [CGCOD: Class-Guided Camouflaged Object Detection](https://arxiv.org/pdf/2412.18977)
 
 > [!note]
-> This work has been accepted by ACMMM2025, and we are about to release all the code. 😊
-> Details of the proposed Camoclass dataset can be found in the document for [our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
-> Furthermore, we plan to provide more fine-grained textual annotations for the dataset. Regarding the training and testing environments, we aim to investigate the model’s capability to comprehend textual descriptions under complex environmental conditions.
-> Additionally, we aspire that our precisely annotated categories will enable the research community to advance the exploration of camouflaged object semantic segmentation as a challenging yet promising task.
+> 1. This work has been accepted by ACMMM2025, and we are about to release all the code. 😊
+> 2. Details of the proposed Camoclass dataset can be found in the document for [our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
+> 3. Furthermore, we plan to provide more fine-grained textual annotations for the dataset. Regarding the training and testing environments, we aim to investigate the model’s capability to comprehend textual descriptions under complex environmental conditions.
+> 4. Additionally, we aspire that our precisely annotated categories will enable the research community to advance the exploration of camouflaged object semantic segmentation as a challenging yet promising task.
 
 ## Dataset Details
 
