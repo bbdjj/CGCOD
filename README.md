@@ -3,8 +3,9 @@
 - Paper: [CGCOD: Class-Guided Camouflaged Object Detection](https://arxiv.org/pdf/2412.18977)
 
 > [!note]
->
+> This work has been accepted by ACMMM2025, and we are about to release all the code. 😊
 > Details of the proposed Camoclass dataset can be found in the document for [our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
+> 
 
 ## Dataset Details
 
@@ -30,5 +31,16 @@ The use of these images is entirely at your own risk and discretion. Additionall
    - `CHAMELEON`: Directory of **CHAMELEON**, which contains `img` and `gt` of CHAMELEON.
 2. Download for the information json for CamoClass dataset (`dataset_info.json`) from 
 3. Specify the data roots for training and testing by dataset_info.json.
+   
+## 📎 Citation
 
-%## LICENSE of 
+If you find the code helpful in your research or work, please cite the following paper(s).
+
+```
+@article{zhang2024cgcod,
+  title={CGCOD: Class-Guided Camouflaged Object Detection},
+  author={Zhang, Chenxi and Zhang, Qing and Wu, Jiayun and Pang, Youwei},
+  journal={arXiv preprint arXiv:2412.18977},
+  year={2024}
+}
+```
