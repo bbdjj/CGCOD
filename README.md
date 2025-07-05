@@ -4,8 +4,9 @@
 
 > [!note]
 > This work has been accepted by ACMMM2025, and we are about to release all the code. 😊
-> Details of the proposed Camoclass dataset can be found in the document for [our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
 > 
+> Details of the proposed Camoclass dataset can be found in the document for [our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
+> Furthermore, we plan to provide more fine-grained textual annotations for the dataset. Regarding the training and testing environments, we aim to investigate the model’s capability to comprehend textual descriptions under complex environmental conditions.
 
 ## Dataset Details
 
