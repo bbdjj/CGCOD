@@ -1,3 +1,4 @@
+<p align=center><img src="classcamo.jpg" width="200px"><img src='https://img.shields.io/badge/ACMMM-2025-red'></a> </p>
 # CGCOD
 
 - Paper: [CGCOD: Class-Guided Camouflaged Object Detection](https://arxiv.org/pdf/2412.18977)
