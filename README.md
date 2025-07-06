@@ -32,12 +32,25 @@ The use of these images is entirely at your own risk and discretion. Additionall
    - `CHAMELEON`: Directory of **CHAMELEON**, which contains `img` and `gt` of CHAMELEON.
 2. Download for the information json for CamoClass dataset (`dataset_info.json`) from 
 3. Specify the data roots for training and testing by dataset_info.json.
-   
+```  
+├── Camoclass  
+    ├── Camo  
+        ├── train                # training set of camoclass
+            ├── Imgs               
+                 ├── Ant  ...         
+        └── test                 # tesing set of camoclass.
+             ├── CAMO               
+                 ├── Ant  ...    
+```
+## Related Works
+[Referring Camouflaged Object Detection ](https://github.com/zhangxuying1004/RefCOD), TPAMI 2024.
+[Open-Vocabulary Camouflaged Object Segmentation ](https://github.com/lartpang/OVCamo), ECCV 2024.
+[Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and Visual Analysis Strategy ](https://github.com/lyu-yx/ACUMEN), ECCV 2024.
+```
 ## 📎 Citation
 
 If you find the code helpful in your research or work, please cite the following paper(s).
 
-```
 @article{zhang2024cgcod,
   title={CGCOD: Class-Guided Camouflaged Object Detection},
   author={Zhang, Chenxi and Zhang, Qing and Wu, Jiayun and Pang, Youwei},
