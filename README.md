@@ -44,7 +44,9 @@ The use of these images is entirely at your own risk and discretion. Additionall
 ```
 ## Related Works
 [Referring Camouflaged Object Detection ](https://github.com/zhangxuying1004/RefCOD), TPAMI 2024.
+
 [Open-Vocabulary Camouflaged Object Segmentation ](https://github.com/lartpang/OVCamo), ECCV 2024.
+
 [Unlocking Attributes' Contribution to Successful Camouflage: A Combined Textual and Visual Analysis Strategy ](https://github.com/lyu-yx/ACUMEN), ECCV 2024.
 ```
 ## 📎 Citation
