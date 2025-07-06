@@ -143,9 +143,9 @@ if __name__ == "__main__":
     optimizer = torch.optim.Adam(model.parameters(), lr=opt.lr)
 
     train_loader = get_camo_loader(opt.train_root, opt.batchsize, mode='train', image_size=opt.trainsize,clip_size=opt.clipsize)
-    val_loader = get_camo_loader(opt.val_root, 1, mode='test/CAMO',image_size=opt.trainsize,clip_size=opt.clipsize)
+
 
     for epoch in range(1, opt.epoch + 1):
         poly_lr(optimizer, opt.lr, epoch, opt.epoch)
         train(train_loader, model, optimizer, epoch, opt.save_path, opt.batchsize)
-        validate(val_loader, model, epoch, opt.save_path)
+        
