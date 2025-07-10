@@ -7,7 +7,8 @@
 > 2. Details of the proposed Camoclass dataset can be found in the document for [our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
 > 3. Furthermore, we plan to provide more fine-grained textual annotations for the dataset. Regarding the training and testing environments, we aim to investigate the model’s capability to comprehend textual descriptions under complex environmental conditions.
 > 4. Additionally, we aspire that our precisely annotated categories will enable the research community to advance the exploration of camouflaged object semantic segmentation as a challenging yet promising task.
-> 5. We labeled the text information of the significant datasets DUTS, ECSSD and PACAL-S,[our dataset](https://github.com/bbdjj/CGCOD/releases/tag/dataset/camoclass.zip).
+> 5. We labeled the text information of the significant datasets DUTS, ECSSD and PACAL-S, [DUTS.zip](https://pan.baidu.com/s/1xEzn44clagB_97p2OcQENQ)
+ 提取码: ziat 
 
 ## Dataset Details
 
