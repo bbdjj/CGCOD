@@ -18,6 +18,7 @@ It is your responsibility to review and adhere to the original licenses associat
 
 The use of these images is entirely at your own risk and discretion. Additionally, please refer to the dataset description below for detailed instructions on how to set up Camoclass before executing our code.
 
+Dataset can be found at：CODclass.rar : https://pan.baidu.com/s/1iM00y081aqayyu6zGAVapQ code: 97ng
 ### Prepare Related Data
 
 - **COD10K**: <https://github.com/GewelsJI/SINet-V2>
