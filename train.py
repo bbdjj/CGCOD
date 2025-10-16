@@ -15,9 +15,9 @@ from torch.backends import cudnn
 from PIL import Image
 import torchvision.utils as vutils
 from CGNet.pvt import pvt_v2_b2
-from CGNet.model import CGNet as Network # 自定义网络
+from CGNet.model import CGNet as Network 
 from CGNet.CGD import Network as CGD
-from data.dataloader import get_camo_loader  # 新版数据加载器
+from data.dataloader import get_camo_loader 
 from utils import clip_gradient, poly_lr
 from loss_f import seg_loss
 
